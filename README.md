@@ -1,3 +1,3 @@
 * Holberton School
-* ## The school is open! ##
-*### is so cool! ###
+## The school is open! ##
+### is so cool! ###
