@@ -1,3 +1,3 @@
-* Holberton School
-## The school is open! ##
-### Is so cool! ###
+* Holberton School projects
+## Is Cool ##
+### The School is Open! ###
