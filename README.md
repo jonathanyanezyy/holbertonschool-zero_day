@@ -1,3 +1,1 @@
-* Holberton School
-## The school is open! ##
-### Is so cool! ###
+* This file is mandatory in all Holberton School projects
